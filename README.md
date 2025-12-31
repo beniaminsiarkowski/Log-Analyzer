@@ -1,5 +1,7 @@
 # 📂 Log Analyzer v1.0
 
+![Podgląd programu](screen.png)
+
 Aplikacja desktopowa z graficznym interfejsem użytkownika (GUI), służąca do automatycznej analizy plików tekstowych i logów systemowych.
 
 Program pozwala na szybkie "przeskanowanie" wybranego pliku i wyciągnięcie z niego kluczowych informacji, takich jak adresy e-mail oraz adresy IP, a następnie zapisanie raportu.
